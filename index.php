@@ -8,7 +8,7 @@ define('BASE_URL', '/ArchiDep/php-todo-ex/');
 
 // Database connection parameters.
 define('DB_USER', 'todolist');
-define('DB_PASS', 'change-me-now');
+define('DB_PASS', 'beboutoilettemarchercheveux');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
