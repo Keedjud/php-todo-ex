@@ -1,6 +1,6 @@
 <?php
 
-// Ceci est un test
+// Ceci est un test test
 
 // The base path under which the application is exposed. For example, if you are
 // accessing the application at "http://localhost:8888/php-todo-ex/", then
